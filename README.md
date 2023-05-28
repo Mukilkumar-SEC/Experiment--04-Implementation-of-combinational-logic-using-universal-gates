@@ -31,8 +31,8 @@ To implement the given logic function verify its operation in Quartus using Veri
 ## Program:
 ```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by : MUKESH V
-RegisterNumber : 212222230086
+Developed by : MUKIL KUMAR V
+RegisterNumber : 212222230087
 ```
 
 ```verilog
